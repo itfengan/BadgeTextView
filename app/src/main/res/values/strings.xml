@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BadgeTextView</string>
+    <string name="test_content">据悉，《暂行规定》主要内容包括：一是业务模式。允许内地证券公司或者其从事发布证券研究报告业务的子公司，将香港机构发布的就港股通股票提供投资分析意见的证券研究报告转发给客户；允许内地证券基金经营机构委托香港机构，为证券基金经营机构管理的参与港股通的证券投资基金，提供关于港股通股票的投资建议服务。</string>
+</resources>
