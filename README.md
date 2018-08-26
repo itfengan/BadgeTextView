@@ -3,14 +3,9 @@
 # BadgeTextView
 
 A Badge TextView and support text wrapping haha~
+<img src = https://ws2.sinaimg.cn/large/006tNc79gy1fqkc925ubqj30t415040z.jpg width=400></img>\
 
-
-
-![](https://ws2.sinaimg.cn/large/006tNc79gy1fqkc925ubqj30t415040z.jpg)
-<img src = https://ws2.sinaimg.cn/large/006tNc79gy1fqkc925ubqj30t415040z.jpg width=400></img>
-
-
-use as follows 
+usage
 
 ```xml
 <com.fengan.ui.badgetextview.BadgeTitleView
